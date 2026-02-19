@@ -23,6 +23,6 @@ The example below demonstrates inference on a sample image.
 
 ```python
 image_path = "sample_data/tomato_leaf.jpg"
-predicted_class = predict_disease(image_path)
+predicted_class = predict_disease(Screenshot 2026-02-19 120223.png)
 print("Predicted Disease:", predicted_class)
 
